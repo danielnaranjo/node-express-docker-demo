@@ -24,3 +24,6 @@ $ docker ps
 ```
 curl -i localhost:49160
 ```
+
+# Getting on Docker Hub
+[https://hub.docker.com/r/danielnaranjo/node-express-docker-demo](https://hub.docker.com/r/danielnaranjo/node-express-docker-demo)
